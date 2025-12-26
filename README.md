@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- PREMIUM ANIMATED HEADER -->
+<!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&text=Humesh%20Deshmukh&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%E2%80%A2%20DevOps%20Engineer%20%E2%80%A2%20AI%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
 
-<!-- ANIMATED INTRO -->
 <br>
 
+<!-- ANIMATED TYPING -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Welcome+to+my+Digital+Space+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Crafting+elegant+solutions+to+complex+problems;Building+scalable+applications+with+modern+tech;Automating+everything+that+can+be+automated;Turning+ideas+into+reality+through+code)](https://git.io/typing-svg)
@@ -13,63 +13,49 @@
 <br>
 
 <!-- PROFILE BADGES -->
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-6366f1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-f97316?style=for-the-badge"/>
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Development-6366f1?style=for-the-badge)
+![Lives](https://img.shields.io/badge/Lives-India-success?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-English%20%26%20Hindi-f97316?style=for-the-badge)
 
-<br><br>
+<br>
 
 <!-- SOCIAL LINKS -->
-<a href="https://www.linkedin.com/in/humesh-deshmukh-555824206/">
-  <img height="40" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:humeshdeshmukh@gmail.com">
-  <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/humeshdeshmukh">
-  <img height="40" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://twitter.com/humeshdeshmukh">
-  <img height="40" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humesh-deshmukh-555824206/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:humeshdeshmukh0@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/humeshdeshmukh)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/humeshdeshmukh)
 
-<br><br>
+<br>
 
 <!-- STATS OVERVIEW -->
-<img src="https://komarev.com/ghpvc/?username=humeshdeshmukh&style=for-the-badge&color=6366f1"/>
-<img src="https://img.shields.io/github/followers/humeshdeshmukh?style=for-the-badge&color=818cf8&labelColor=1e1e2e"/>
-<img src="https://img.shields.io/github/stars/humeshdeshmukh?style=for-the-badge&color=f97316&labelColor=1e1e2e"/>
+![Profile Views](https://komarev.com/ghpvc/?username=humeshdeshmukh&style=for-the-badge&color=6366f1)
+![Followers](https://img.shields.io/github/followers/humeshdeshmukh?style=for-the-badge&color=818cf8&labelColor=1e1e2e)
+![Stars](https://img.shields.io/github/stars/humeshdeshmukh?style=for-the-badge&color=f97316&labelColor=1e1e2e)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## ✨ About Me
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&vCenter=true&width=500&height=30&lines=%3E+Hello+World!+I'm+Humesh+from+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+I'm a passionate **Full Stack Developer** and **DevOps Engineer** who loves building scalable applications and automating everything!
 
-I'm a passionate **Full Stack Developer** and **DevOps Engineer** from **Nagpur, India** 🇮🇳
-
-- 🔭 Currently building **AI-powered Interview Platforms**
-- 🌱 Diving deep into **System Design** & **Machine Learning**  
-- 👨‍💻 Love working with **React, Next.js, Node.js, Python**
-- ☁️ Experienced with **AWS, Docker, Kubernetes, Terraform**
-- 🤖 Exploring **AI/ML, LangChain, OpenAI APIs**
-- 💬 Ask me about **Full Stack, DevOps, Cloud Architecture**
-- 📧 Reach me at **<humeshdeshmukh@gmail.com>**
-- ⚡ Fun fact: **I mass produce bugs then mass fix them** 🐛
-
-<br clear="both"/>
+- 🔭 **Currently building:** AI-powered Interview Platforms
+- 🌱 **Learning:** System Design & Machine Learning  
+- 👨‍💻 **Love working with:** React, Next.js, Node.js, Python
+- ☁️ **Cloud Experience:** AWS, Docker, Kubernetes, Terraform
+- 🤖 **Exploring:** AI/ML, LangChain, OpenAI APIs
+- 💬 **Ask me about:** Full Stack, DevOps, Cloud Architecture
+- 📧 **Email:** <humeshdeshmukh0@gmail.com>
+- ⚡ **Fun fact:** I mass produce bugs then mass fix them 🐛
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## 🛠️ Tech Stack
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> Tech Stack
-
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=818CF8&vCenter=true&width=400&height=30&lines=%3E+Technologies+I+work+with...)](https://git.io/typing-svg)
 
 ### 💻 Languages
 
@@ -87,7 +73,6 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** from **Nagpur,
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 ### ⚙️ Backend
 
@@ -123,7 +108,6 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** from **Nagpur,
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### 🛠️ Tools
 
@@ -132,60 +116,74 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** from **Nagpur,
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F97316&vCenter=true&width=400&height=30&lines=%3E+My+GitHub+Statistics...)](https://git.io/typing-svg)
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humeshdeshmukh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=humeshdeshmukh&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=f97316&currStreakLabel=70a5fd)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humeshdeshmukh&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-a4e35b9b0a36.png" width="30"/> GitHub Analytics
+## 📈 Contribution Graph
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=humeshdeshmukh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=humeshdeshmukh&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=f97316&currStreakLabel=70a5fd"/>
-</div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humeshdeshmukh&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8"/>
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=humeshdeshmukh&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=f97316&area_color=70a5fd&title_color=70a5fd&area=true&hide_border=true)
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=humeshdeshmukh&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=f97316&area_color=70a5fd&title_color=70a5fd&area=true&hide_border=true"/>
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## 🏆 GitHub Achievements
 
-## <img src="https://user-images.githubusercontent.com/74038190/216124356-9c652f85-094c-4e2b-aeb9-e32f0d0f22be.png" width="30"/> Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=humeshdeshmukh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-</div>
-
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=BF91F3&vCenter=true&width=400&height=30&lines=%3E+Trophies+%26+Achievements...)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=humeshdeshmukh&theme=tokyonight"/>
-</div>
 
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=humeshdeshmukh&theme=tokyonight"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=humeshdeshmukh&theme=tokyonight"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=humeshdeshmukh&theme=tokyonight&utcOffset=5.5"/>
+![Trophies](https://github-profile-trophy.vercel.app/?username=humeshdeshmukh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30"/> What I Do
+## 📊 Profile Summary
 
 <div align="center">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=humeshdeshmukh&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=humeshdeshmukh&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=humeshdeshmukh&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=humeshdeshmukh&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=humeshdeshmukh&theme=tokyonight&utcOffset=5.5)
+
+</div>
+
+---
+
+## 💼 What I Do
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDAE&vCenter=true&width=400&height=30&lines=%3E+My+Expertise+Areas...)](https://git.io/typing-svg)
 
 | 🎯 Development | ☁️ DevOps | 🏗️ Architecture | 🤖 AI/ML |
 |:---:|:---:|:---:|:---:|
@@ -195,42 +193,11 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** from **Nagpur,
 | Progressive Web Apps | Cloud Deployment | API Gateway | Computer Vision |
 | Mobile Development | Monitoring & Logging | Scalability | Data Analytics |
 
-</div>
-
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## 📈 Coding Stats
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"/> Experience & Education
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                              EXPERIENCE                                  │
-├─────────────────────────────────────────────────────────────────────────┤
-│  🏢  Full Stack Developer                                               │
-│      • Building scalable web applications with React & Node.js          │
-│      • Implementing DevOps practices & CI/CD pipelines                  │
-│      • Cloud infrastructure management on AWS & GCP                     │
-├─────────────────────────────────────────────────────────────────────────┤
-│                              EDUCATION                                   │
-├─────────────────────────────────────────────────────────────────────────┤
-│  🎓  B.Tech in Computer Science                                         │
-│      • Focus on Software Engineering & Data Structures                  │
-│      • Projects in AI/ML, Web Development & Cloud Computing             │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="30"/> Coding Stats
-
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&vCenter=true&width=400&height=30&lines=%3E+Weekly+Development+Stats...)](https://git.io/typing-svg)
 
 ```text
 📊 Weekly Development Breakdown
@@ -243,10 +210,6 @@ Markdown     █░░░░░░░░░░░░░░░░░░░░░�
 Other        ░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
-</div>
-
-<div align="center">
-  
 | 📈 Metric | 🔢 Count |
 |:---:|:---:|
 | Total Commits (2024) | **1,200+** |
@@ -254,17 +217,12 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 | Issues Resolved | **100+** |
 | Code Reviews | **200+** |
 | Lines of Code | **500K+** |
-| Cups of Coffee | **∞** |
-
-</div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## 🎯 2025 Roadmap
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="30"/> 2025 Roadmap
-
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F97316&vCenter=true&width=400&height=30&lines=%3E+Goals+for+2025...)](https://git.io/typing-svg)
 
 | Q1 🎯 | Q2 🚀 | Q3 🌟 | Q4 👨‍💼 |
 |:---:|:---:|:---:|:---:|
@@ -272,66 +230,41 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 | Advanced K8s, Helm | 3 AI-powered apps | 100+ contributions | Lead dev team |
 | Service Mesh, GitOps | LLM integrations | Community building | Mentoring others |
 
+---
+
+## 📫 Let's Connect
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=BF91F3&vCenter=true&width=500&height=30&lines=%3E+I'm+always+open+to+collaboration!)](https://git.io/typing-svg)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humesh-deshmukh-555824206/)
+[![Gmail](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:humeshdeshmukh0@gmail.com)
+[![Twitter](https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/humeshdeshmukh)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/humeshdeshmukh)
+
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="30"/> Let's Connect
+## 💝 Support
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=600&height=50&lines=I'm+always+open+to+interesting+conversations!;Let's+collaborate+on+something+amazing!;Feel+free+to+reach+out+anytime!)](https://git.io/typing-svg)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/humeshdeshmukh)
+[![Sponsor](https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/humeshdeshmukh)
 
 <br>
-
-<a href="https://www.linkedin.com/in/humesh-deshmukh-555824206/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:humeshdeshmukh@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://twitter.com/humeshdeshmukh">
-  <img src="https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://github.com/humeshdeshmukh">
-  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<!-- Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"/> Support
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/humeshdeshmukh">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
-<a href="https://github.com/sponsors/humeshdeshmukh">
-  <img src="https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white"/>
-</a>
-
-<br><br>
 
 ### ⭐ If you like my work, consider giving a star to my repositories! ⭐
 
 <br>
 
-<img src="https://img.shields.io/badge/Made_with_❤️_in_India-1a1b27?style=for-the-badge"/>
+![Made with Love](https://img.shields.io/badge/Made_with_❤️_in_India-1a1b27?style=for-the-badge)
 
 </div>
 
 <br>
 
 <!-- ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=24&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=24&section=footer" width="100%"/>
