@@ -164,13 +164,21 @@ fun_fact: "I debug with console.log and I'm proud of it! 😄"
 
 ---
 
-## 🐍 Contribution Snake
+## 🔥 Contribution Metrics
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/humeshdeshmukh/humeshdeshmukh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/humeshdeshmukh/humeshdeshmukh/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/humeshdeshmukh/humeshdeshmukh/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=humeshdeshmukh&theme=tokyonight" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=humeshdeshmukh&theme=tokyonight" alt="Repos per Language"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=humeshdeshmukh&theme=tokyonight" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=humeshdeshmukh&theme=tokyonight" alt="Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=humeshdeshmukh&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+</p>
 
 ---
 

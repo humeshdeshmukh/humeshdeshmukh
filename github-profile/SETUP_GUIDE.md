@@ -18,7 +18,7 @@ Follow these steps to set up your awesome GitHub profile!
 
 ## Step 2: Upload the README
 
-### Option A: Using GitHub Web Interface
+### Option A: Using GitHub Web Interface (Easiest)
 
 1. Open your new `humeshdeshmukh` repository
 2. Click on `README.md`
@@ -46,30 +46,7 @@ git push origin main
 
 ---
 
-## Step 3: Set Up the Snake Animation
-
-1. In your `humeshdeshmukh` repository, create the folder structure:
-
-   ```
-   .github/
-   └── workflows/
-       └── snake.yml
-   ```
-
-2. Copy the content from `.github/workflows/snake.yml` in this folder
-
-3. **Important**: The snake animation needs to run the workflow first:
-   - Go to your repository on GitHub
-   - Click **"Actions"** tab
-   - Click **"Generate Snake Animation"** workflow
-   - Click **"Run workflow"** → **"Run workflow"** (green button)
-   - Wait for it to complete (about 1-2 minutes)
-
-4. After the workflow completes, the snake will appear on your profile!
-
----
-
-## Step 4: Customize Your Profile
+## Step 3: Customize Your Profile
 
 ### Update Personal Information
 
@@ -97,7 +74,7 @@ For each of your repositories:
 
 ---
 
-## Step 5: Optional Enhancements
+## Step 4: Optional Enhancements
 
 ### Add a Custom Profile Picture
 
@@ -155,12 +132,6 @@ Replace `theme=tokyonight` with any of the above.
 
 ## 🔧 Troubleshooting
 
-### Snake Not Showing?
-
-1. Make sure the GitHub Action ran successfully
-2. Check that the `output` branch was created
-3. Verify the SVG URL in README is correct
-
 ### Stats Cards Not Loading?
 
 - Sometimes Vercel apps have rate limits
@@ -180,10 +151,7 @@ Replace `theme=tokyonight` with any of the above.
 ```
 github-profile/
 ├── README.md           # Your profile README (copy to GitHub)
-├── SETUP_GUIDE.md      # This guide
-└── .github/
-    └── workflows/
-        └── snake.yml   # GitHub Action for snake animation
+└── SETUP_GUIDE.md      # This setup guide
 ```
 
 ---
@@ -192,8 +160,6 @@ github-profile/
 
 - [ ] Created `humeshdeshmukh` repository on GitHub
 - [ ] Uploaded README.md content
-- [ ] Set up Snake Animation workflow
-- [ ] Ran the workflow at least once
 - [ ] Customized personal information
 - [ ] Pinned best repositories
 - [ ] Added repository descriptions
