@@ -290,48 +290,6 @@ class Developer {
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📌 FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h2>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px" height="30px">
-  Featured Projects
-</h2>
-
-<div align="center">
-
-<!-- Project Cards Grid -->
-<a href="https://github.com/humeshdeshmukh/interviewmaster.ai-new">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=humeshdeshmukh&repo=interviewmaster.ai-new&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899"/>
-</a>
-<a href="https://github.com/humeshdeshmukh/interviewexceler.ai">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=humeshdeshmukh&repo=interviewexceler.ai&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899"/>
-</a>
-
-<a href="https://github.com/humeshdeshmukh/CareTrek-new">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=humeshdeshmukh&repo=CareTrek-new&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899"/>
-</a>
-<a href="https://github.com/humeshdeshmukh/full-stack_chatApp">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=humeshdeshmukh&repo=full-stack_chatApp&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899"/>
-</a>
-
-<a href="https://github.com/humeshdeshmukh/Devops-projects">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=humeshdeshmukh&repo=Devops-projects&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899"/>
-</a>
-<a href="https://github.com/humeshdeshmukh/Wanderlust-Mega-Project-main">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=humeshdeshmukh&repo=Wanderlust-Mega-Project-main&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899"/>
-</a>
-
-</div>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 💼 SKILLS MATRIX -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -430,30 +388,6 @@ Other        █░░░░░░░░░░░░░░░░░░░░   0
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎵 SPOTIFY & EXTRAS -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h2>
-  <img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="30px" height="30px">
-  Vibing To
-</h2>
-
-<div align="center">
-  
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jxvqygflx4epr3rnxynpxl7qve&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=a855f7&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jxvqygflx4epr3rnxynpxl7qve&redirect=true)
-
-  <sub><i>🎵 Music fuels my coding sessions!</i></sub>
-
-</div>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 📫 CONNECT WITH ME -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -468,16 +402,21 @@ Other        █░░░░░░░░░░░░░░░░░░░░   0
 
   <br><br>
 
+  <!-- Social Connect Badges -->
   <a href="https://www.linkedin.com/in/humesh-deshmukh-555824206/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:humeshdeshmukh@gmail.com">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974189-a398e0e5-2bc2-436e-9db6-fe0e6bb45bd5.png"/>
+    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://twitter.com/humeshdeshmukh">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+    <img src="https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/humeshdeshmukh">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <br><br>
@@ -520,10 +459,6 @@ Other        █░░░░░░░░░░░░░░░░░░░░   0
   <br>
 
   <img src="https://img.shields.io/badge/Made_with_❤️_in_India-1a1b27?style=for-the-badge"/>
-
-  <br><br>
-
-  ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
